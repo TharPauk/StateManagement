@@ -9,21 +9,43 @@
 /* Begin PBXBuildFile section */
 		D9EB41B0283C81C7000E6B21 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EB41AF283C81C7000E6B21 /* AppDelegate.swift */; };
 		D9EB41B2283C81C7000E6B21 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EB41B1283C81C7000E6B21 /* SceneDelegate.swift */; };
-		D9EB41B4283C81C7000E6B21 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EB41B3283C81C7000E6B21 /* ViewController.swift */; };
+		D9EB41B4283C81C7000E6B21 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EB41B3283C81C7000E6B21 /* WelcomeViewController.swift */; };
 		D9EB41B7283C81C7000E6B21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41B5283C81C7000E6B21 /* Main.storyboard */; };
 		D9EB41B9283C81C9000E6B21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41B8283C81C9000E6B21 /* Assets.xcassets */; };
 		D9EB41BC283C81C9000E6B21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41BA283C81C9000E6B21 /* LaunchScreen.storyboard */; };
+		D9EB41C7283C8336000E6B21 /* RoundedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EB41C6283C8336000E6B21 /* RoundedView.swift */; };
+		D9EB41D2283C857C000E6B21 /* Chivo-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41C9283C857B000E6B21 /* Chivo-Italic.ttf */; };
+		D9EB41D3283C857C000E6B21 /* Chivo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41CA283C857B000E6B21 /* Chivo-Bold.ttf */; };
+		D9EB41D4283C857C000E6B21 /* Chivo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41CB283C857C000E6B21 /* Chivo-Black.ttf */; };
+		D9EB41D5283C857C000E6B21 /* Chivo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41CC283C857C000E6B21 /* Chivo-Light.ttf */; };
+		D9EB41D6283C857C000E6B21 /* Chivo-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41CD283C857C000E6B21 /* Chivo-BlackItalic.ttf */; };
+		D9EB41D7283C857C000E6B21 /* Chivo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41CE283C857C000E6B21 /* Chivo-Regular.ttf */; };
+		D9EB41D8283C857C000E6B21 /* Chivo-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41CF283C857C000E6B21 /* Chivo-BoldItalic.ttf */; };
+		D9EB41D9283C857C000E6B21 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41D0283C857C000E6B21 /* OFL.txt */; };
+		D9EB41DA283C857C000E6B21 /* Chivo-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9EB41D1283C857C000E6B21 /* Chivo-LightItalic.ttf */; };
+		D9EB41DC283C886D000E6B21 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EB41DB283C886D000E6B21 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D9EB41AC283C81C7000E6B21 /* StateManagement.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StateManagement.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9EB41AF283C81C7000E6B21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9EB41B1283C81C7000E6B21 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D9EB41B3283C81C7000E6B21 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D9EB41B3283C81C7000E6B21 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		D9EB41B6283C81C7000E6B21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D9EB41B8283C81C9000E6B21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9EB41BB283C81C9000E6B21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9EB41BD283C81C9000E6B21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9EB41C6283C8336000E6B21 /* RoundedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedView.swift; sourceTree = "<group>"; };
+		D9EB41C9283C857B000E6B21 /* Chivo-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-Italic.ttf"; sourceTree = "<group>"; };
+		D9EB41CA283C857B000E6B21 /* Chivo-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-Bold.ttf"; sourceTree = "<group>"; };
+		D9EB41CB283C857C000E6B21 /* Chivo-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-Black.ttf"; sourceTree = "<group>"; };
+		D9EB41CC283C857C000E6B21 /* Chivo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-Light.ttf"; sourceTree = "<group>"; };
+		D9EB41CD283C857C000E6B21 /* Chivo-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-BlackItalic.ttf"; sourceTree = "<group>"; };
+		D9EB41CE283C857C000E6B21 /* Chivo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-Regular.ttf"; sourceTree = "<group>"; };
+		D9EB41CF283C857C000E6B21 /* Chivo-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-BoldItalic.ttf"; sourceTree = "<group>"; };
+		D9EB41D0283C857C000E6B21 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		D9EB41D1283C857C000E6B21 /* Chivo-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chivo-LightItalic.ttf"; sourceTree = "<group>"; };
+		D9EB41DB283C886D000E6B21 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +78,42 @@
 		D9EB41AE283C81C7000E6B21 /* StateManagement */ = {
 			isa = PBXGroup;
 			children = (
+				D9EB41C3283C8304000E6B21 /* Supporting Files */,
 				D9EB41AF283C81C7000E6B21 /* AppDelegate.swift */,
 				D9EB41B1283C81C7000E6B21 /* SceneDelegate.swift */,
-				D9EB41B3283C81C7000E6B21 /* ViewController.swift */,
+				D9EB41B3283C81C7000E6B21 /* WelcomeViewController.swift */,
 				D9EB41B5283C81C7000E6B21 /* Main.storyboard */,
 				D9EB41B8283C81C9000E6B21 /* Assets.xcassets */,
 				D9EB41BA283C81C9000E6B21 /* LaunchScreen.storyboard */,
 				D9EB41BD283C81C9000E6B21 /* Info.plist */,
 			);
 			path = StateManagement;
+			sourceTree = "<group>";
+		};
+		D9EB41C3283C8304000E6B21 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D9EB41C8283C856B000E6B21 /* Fonts */,
+				D9EB41C6283C8336000E6B21 /* RoundedView.swift */,
+				D9EB41DB283C886D000E6B21 /* Extensions.swift */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D9EB41C8283C856B000E6B21 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D9EB41CB283C857C000E6B21 /* Chivo-Black.ttf */,
+				D9EB41CD283C857C000E6B21 /* Chivo-BlackItalic.ttf */,
+				D9EB41CA283C857B000E6B21 /* Chivo-Bold.ttf */,
+				D9EB41CF283C857C000E6B21 /* Chivo-BoldItalic.ttf */,
+				D9EB41C9283C857B000E6B21 /* Chivo-Italic.ttf */,
+				D9EB41CC283C857C000E6B21 /* Chivo-Light.ttf */,
+				D9EB41D1283C857C000E6B21 /* Chivo-LightItalic.ttf */,
+				D9EB41CE283C857C000E6B21 /* Chivo-Regular.ttf */,
+				D9EB41D0283C857C000E6B21 /* OFL.txt */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +174,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9EB41D2283C857C000E6B21 /* Chivo-Italic.ttf in Resources */,
+				D9EB41D9283C857C000E6B21 /* OFL.txt in Resources */,
+				D9EB41D8283C857C000E6B21 /* Chivo-BoldItalic.ttf in Resources */,
+				D9EB41D5283C857C000E6B21 /* Chivo-Light.ttf in Resources */,
+				D9EB41D6283C857C000E6B21 /* Chivo-BlackItalic.ttf in Resources */,
+				D9EB41D3283C857C000E6B21 /* Chivo-Bold.ttf in Resources */,
 				D9EB41BC283C81C9000E6B21 /* LaunchScreen.storyboard in Resources */,
 				D9EB41B9283C81C9000E6B21 /* Assets.xcassets in Resources */,
+				D9EB41D4283C857C000E6B21 /* Chivo-Black.ttf in Resources */,
+				D9EB41DA283C857C000E6B21 /* Chivo-LightItalic.ttf in Resources */,
 				D9EB41B7283C81C7000E6B21 /* Main.storyboard in Resources */,
+				D9EB41D7283C857C000E6B21 /* Chivo-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +196,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9EB41B4283C81C7000E6B21 /* ViewController.swift in Sources */,
+				D9EB41DC283C886D000E6B21 /* Extensions.swift in Sources */,
+				D9EB41C7283C8336000E6B21 /* RoundedView.swift in Sources */,
+				D9EB41B4283C81C7000E6B21 /* WelcomeViewController.swift in Sources */,
 				D9EB41B0283C81C7000E6B21 /* AppDelegate.swift in Sources */,
 				D9EB41B2283C81C7000E6B21 /* SceneDelegate.swift in Sources */,
 			);
