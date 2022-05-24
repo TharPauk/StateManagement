@@ -7,4 +7,6 @@ target 'StateManagement' do
 
   # Pods for StateManagement
   pod 'IQKeyboardManagerSwift' 
+  pod 'RxSwift'
+  pod 'RxCocoa' 
 end

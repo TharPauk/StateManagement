@@ -693,13 +693,8 @@
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9eX-1G-Yvf">
-                                                <rect key="frame" x="0.0" y="0.0" width="374" height="60"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                            </button>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.094117647060000004" green="0.3921568627" blue="0.83921568629999999" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="backgroundColor" red="0.60398334259999997" green="0.60386085509999998" blue="0.60784435270000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
                                             <constraint firstItem="sN1-6D-YMe" firstAttribute="top" secondItem="cYA-IH-TIA" secondAttribute="top" id="1lV-IT-qp8"/>
                                             <constraint firstAttribute="trailing" secondItem="sN1-6D-YMe" secondAttribute="trailing" id="1vV-7U-TVA"/>
@@ -768,6 +763,13 @@
                     <connections>
                         <outlet property="contentView" destination="bc8-TY-L4u" id="R3y-kf-y1f"/>
                         <outlet property="createAccountButton" destination="cYA-IH-TIA" id="Unp-Ev-Wd1"/>
+                        <outlet property="dobTextField" destination="qVn-zr-GJo" id="riO-xc-7yZ"/>
+                        <outlet property="emailTextField" destination="9QR-Yq-XlP" id="nc5-fb-SOO"/>
+                        <outlet property="firstNameTextField" destination="di3-Ff-xKH" id="YFD-yj-P8T"/>
+                        <outlet property="lastNameTextField" destination="laF-ZB-owp" id="0mc-dg-68a"/>
+                        <outlet property="nationalityTextField" destination="qg5-Lq-6H7" id="sfP-9Y-AOq"/>
+                        <outlet property="phoneTextField" destination="GdH-po-yd9" id="pcR-3L-OAp"/>
+                        <outlet property="residenceTextField" destination="Joc-T4-FYB" id="87I-TN-P1W"/>
                         <outlet property="scrollView" destination="WRF-La-8y1" id="czg-Y3-x8v"/>
                     </connections>
                 </viewController>

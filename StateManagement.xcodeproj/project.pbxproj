@@ -109,7 +109,6 @@
 				D9EB41B1283C81C7000E6B21 /* SceneDelegate.swift */,
 				D9EB41B3283C81C7000E6B21 /* WelcomeViewController.swift */,
 				D9EB41B5283C81C7000E6B21 /* Main.storyboard */,
-				D9EB41B8283C81C9000E6B21 /* Assets.xcassets */,
 				D9EB41BA283C81C9000E6B21 /* LaunchScreen.storyboard */,
 				D9EB41BD283C81C9000E6B21 /* Info.plist */,
 				D935A575283CA1F30012DAB4 /* FormViewController.swift */,
@@ -120,6 +119,7 @@
 		D9EB41C3283C8304000E6B21 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D9EB41B8283C81C9000E6B21 /* Assets.xcassets */,
 				D9EB41C8283C856B000E6B21 /* Fonts */,
 				D9EB41C6283C8336000E6B21 /* RoundedView.swift */,
 				D9EB41DB283C886D000E6B21 /* Extensions.swift */,
