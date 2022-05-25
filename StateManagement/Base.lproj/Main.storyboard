@@ -312,7 +312,7 @@
                                                                     <constraint firstAttribute="height" constant="30" id="5EO-iJ-xgm"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                                                <textInputTraits key="textInputTraits"/>
+                                                                <textInputTraits key="textInputTraits" autocapitalizationType="words" autocorrectionType="no" keyboardType="alphabet" textContentType="given-name"/>
                                                             </textField>
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Yeq-fC-L3S" userLabel="Separator">
                                                                 <rect key="frame" x="16" y="55" width="382" height="1"/>
@@ -353,7 +353,7 @@
                                                                     <constraint firstAttribute="height" constant="30" id="JbU-ZG-J9q"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                                                <textInputTraits key="textInputTraits"/>
+                                                                <textInputTraits key="textInputTraits" autocapitalizationType="words" autocorrectionType="no" keyboardType="alphabet" textContentType="family-name"/>
                                                             </textField>
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dOh-un-G53" userLabel="Separator">
                                                                 <rect key="frame" x="16" y="55" width="382" height="1"/>
@@ -394,7 +394,7 @@
                                                                     <constraint firstAttribute="height" constant="30" id="sEW-hW-ert"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                                                <textInputTraits key="textInputTraits" textContentType="email"/>
+                                                                <textInputTraits key="textInputTraits" autocorrectionType="no" keyboardType="alphabet" textContentType="email"/>
                                                             </textField>
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="R0d-LG-11n" userLabel="Separator">
                                                                 <rect key="frame" x="16" y="55" width="382" height="1"/>
@@ -436,7 +436,7 @@
                                                                     <constraint firstAttribute="height" constant="30" id="PHw-21-bM7"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                                                <textInputTraits key="textInputTraits"/>
+                                                                <textInputTraits key="textInputTraits" keyboardType="alphabet" textContentType="date-time"/>
                                                             </textField>
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Own-Ll-DOz" userLabel="Separator">
                                                                 <rect key="frame" x="16" y="55" width="382" height="1"/>
@@ -508,7 +508,7 @@
                                                                     <constraint firstAttribute="height" constant="30" id="KPk-Td-hvQ"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                                                <textInputTraits key="textInputTraits"/>
+                                                                <textInputTraits key="textInputTraits" keyboardType="alphabet"/>
                                                             </textField>
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="85E-9t-Xpy" userLabel="Separator">
                                                                 <rect key="frame" x="16" y="55" width="382" height="1"/>
@@ -549,7 +549,7 @@
                                                                     <constraint firstAttribute="height" constant="30" id="c7H-TE-KfC"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                                                <textInputTraits key="textInputTraits"/>
+                                                                <textInputTraits key="textInputTraits" keyboardType="alphabet"/>
                                                             </textField>
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Zyq-yv-B2u" userLabel="Separator">
                                                                 <rect key="frame" x="16" y="55" width="382" height="1"/>

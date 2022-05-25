@@ -9,6 +9,10 @@ import UIKit
 
 class WelcomeViewController: UIViewController {
     
+    
+    
+    // MARK: - IBOutlets
+    
     @IBOutlet weak var loginWithFacebookButton: RoundedView!
     @IBOutlet weak var loginWithEmailButton: RoundedView!
     @IBOutlet weak var createAccountButton: RoundedView!
